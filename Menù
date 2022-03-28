@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head> <p > .</p></head>
+  <head>
+    <style>
+        body {
+  background-image: url('https://www.cmsistemi.it/wp-content/uploads/2019/01/B2-1596x627.jpg');
+}
+        </style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title> Denis Serpentino </title>
+  </head>
+  <body>
+
+
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <img src="http://www.dynazty.com/press/D_black.png" alt="" width="50" height="50">
+            Esericizi per programmatori e dove trovarli:
+          </a>
+
+
+
+        </div>
+      </nav>
+      
+      <div class="container my-5 text-center" style="max-width: 580px;">
+        <h1 style="color: white;" class="fst-italic">Strumenti per Programmatori </h1>
+    <p style="color: rgb(255, 255, 255);" class="lead"> In questo sito potrete trovare vari tipi di esercizi con diversi tipi di linguaggio di programmazione </p>
+    
+    <button type="button" onclick="location.href='https://github.com/'" class="btn btn-primary">GitHub</button>
+    <button type="button"  onclick="location.href='http://denisserpentino.altervista.org/wp-admin/'" class="btn btn-secondary">Blog personale</button>
+    </div>
+    
+    <div class="container">
+
+        <div class="row align-items-start-lg">
+            <div class="col-sm">
+                <div class="card" style="width: 18rem;">
+                    <img src="https://besthqwallpapers.com/Uploads/8-4-2020/127978/thumb2-html5-black-logo-programming-language-grid-metal-background-html5-artwork.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5>HTML</h5>
+                      <p class="card-text">HTML è un linguaggio che permette di impaginare e formattare pagine collegate fra di loro attraverso link - ovvero, i siti web.</p>
+                      <button type="button"onclick="location.href='https://github.com/denisserpentino/Es-HTML.git'" class="btn btn-secondary">esercizi</button>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-sm">
+                <div class="card" style="width: 18rem;">
+                    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb390fa2-063f-4a71-a1ef-59e4db10a4c7/d4brv0u-1419ffbd-70c9-4357-952c-74a1e1d00641.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiMzkwZmEyLTA2M2YtNGE3MS1hMWVmLTU5ZTRkYjEwYTRjN1wvZDRicnYwdS0xNDE5ZmZiZC03MGM5LTQzNTctOTUyYy03NGExZTFkMDA2NDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dJ4cfpfviU9DX1cyfaKuszaStNq3luA6qZXCdmjOCJw" style="width: 18rem" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5>CSS</h5>
+                      <p class="card-text">Il CSS, in informatica, è un linguaggio usato per definire la formattazione di documenti HTML, XHTML e XML, ad esempio i siti web e relative pagine web.</p>
+                       <a href="pagina2.html" onclick="location.href='https://github.com/denisserpentino/CSS.git'" class="btn btn-secondary">Esercizi </a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-sm">
+                <div class="card" style="width: 18rem;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6nXYsc_JVpUuyKTiGnhwwaS9O8hqRKFYvXRxm6pNN7Mn6Y0T2X4MX1LbJhhxb7yoC4U&usqp=CAU" alt="...">
+                    <div class="card-body">
+                        <h5>C++</h5>
+                      <p class="card-text">In informatica C++ è un linguaggio di programmazione general purpose sviluppato in origine come evoluzione del linguaggio C inserendo la programmazione orientata agli oggetti.</p>
+                      <button type="button" class="btn btn-secondary">Esercizi</button>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-sm">
+                <div class="card" style="width: 18rem;">
+                    <img src="https://www.unidformazione.com/wp-content/uploads/2018/07/logica-verbale.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5>LOGICA</h5>
+                      <p class="card-text">In informatica la programmazione logica è un paradigma di programmazione che adotta la logica del primo ordine sia per rappresentare sia per elaborare l'informazione.</p>
+                      <button type="button" class="btn btn-secondary">Esercizi  </button>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-sm">
+                <div class="card" style="width: 18rem;">
+                    <img src="https://besthqwallpapers.com/Uploads/15-3-2020/124725/thumb2-javascript-metal-logo-grunge-programming-language-signs-blue-metal-background-javascript.jpg" style=width:18rem;  class="card-img-top"    alt="...">
+                    <div class="card-body">
+                        <h5>JAVASCRIPT</h5>
+                      <p class="card-text">JavaScript è un linguaggio di scripting lato client utilizzato per rendere interattive le pagine web.</p>
+                      <button type="button"onclick="location.href='https://github.com/denisserpentino/Javascript.git'" class="btn btn-secondary">Esercizi</button>
+                    </div>
+                  </div>
+            </div>    <br>
+            <div class="col-sm">
+                <div class="card" style="width: 18rem;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ0YuzWfMhvvBsq5Qw0KjCcEJSF-3f1LqJxABbrwh0P5TZ746ywsArd-zA9e6rU9zH-lE&usqp=CAU" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5>SISTEMI</h5>
+                      <p class="card-text">Il sistema è composto da hardware e software, eventualmente connesso a internet, centralizzato oppure geograficamente distribuito e interconnesso, con un'architettura che varia a seconda delle esigenze e della sua progettazione .</p>
+                      <button type="button" class="btn btn-secondary">Esercizi </button>
+                    </div>
+                  </div>     
+            </div>
+            
+            <div class="col-sm">
+                            <div class="card" style="width: 18rem;">
+                                <img src="https://i0.wp.com/blog.colombobeacon.com/php_assets/uploads/2020/12/90-1.jpg?fit=600%2C400&ssl=1" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <h5>JAVA</h5>
+                                  <p class="card-text">In informatica, nome commerciale di un linguaggio di programmazione che permette di sviluppare programmi eseguibili su diversi tipi di computer e compatibili con qualsiasi sistema operativo.</p>
+                                  <button type="button" class="btn btn-secondary">Esercizi</button>
+                                </div>
+                              </div>
+            </div>
+    </div>
+     
+
+    
+    
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" 
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" 
+         crossorigin="anonymous">
+     </script>
+  
+
+    </body>
+</html
